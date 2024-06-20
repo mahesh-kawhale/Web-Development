@@ -197,6 +197,11 @@ html,body{
     font-size: 14px;
     
 }
+#textabout a:hover{
+    background-color: whitesmoke;
+    color: black;
+    
+}
 
 #subscribe{
     width: 100%;
